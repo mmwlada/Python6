@@ -5,6 +5,8 @@
 from zadatak1 import *
 from zadatak2 import *
 from zadatak3 import *
+from zadatak4 import *
+from zadatak5 import *
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
@@ -16,4 +18,6 @@ if __name__ == '__main__':
     zadatak1()
     zadatak2()
     zadatak3()
+    zadatak4()
+    zadatak5()
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
